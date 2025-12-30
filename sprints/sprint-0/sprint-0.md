@@ -22,6 +22,7 @@
 - [ ] Install recommended Extensions:
   - _Material Icon Theme_ (makes files easier to recognize).
   - _Markdown All in One_ (helps with documentation).
+  - _IntelliCode_ (AI)
 - [ ] **Deliverable:** Send a screenshot of your VS Code open with the extensions installed in `#daily-standup`.
 
 ---
