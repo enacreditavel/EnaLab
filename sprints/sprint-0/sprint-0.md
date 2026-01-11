@@ -31,7 +31,7 @@
 
 **Focus:** Version control basics. Connecting your computer (Local) to the cloud (Remote).
 
-**Study Material:** [**Tutorial GitHub para Iniciantes | Como usar o GitHub 2025 Atualizado**](https://www.youtube.com/watch?v=BUGZZaChiYw) | | [**Git Basics Summary**](/sprints/sprint-0/git-basics.pdf)
+**Study Material:** [**Tutorial GitHub para Iniciantes | Como usar o GitHub 2025 Atualizado**](https://www.youtube.com/watch?v=BUGZZaChiYw) | | [**Git Basics Summary**](https://www.daniel-abella.com/quickref/engsoft/quick-ref-git-basics.pdf)
 
 **Action Items:**
 
@@ -82,7 +82,7 @@
 
 **Focus:** Understanding how we work as a team.
 
-**Study Material:** [**Scrum - Aprenda Scrum em 9 minutos**](https://www.youtube.com/watch?v=XfvQWnRgxG0&t=187s) | | [**KANBAN O QUE É?**](https://www.youtube.com/watch?v=K9b4JC5CsQs&t=41s) | | [**Ebook Scrum Arretado**](/sprints/sprint-0/ebook-scrum-arretado.pdf) | | [**Scrum Summary 1**](/sprints/sprint-0/scrum-framework.pdf) | | [**Scrum Summary 2**](/sprints/sprint-0/scrum-framework-pt2.pdf) | | [**Scrum Summary 3**](/sprints/sprint-0/scrum-framework-pt3.pdf)
+**Study Material:** [**Scrum - Aprenda Scrum em 9 minutos**](https://www.youtube.com/watch?v=XfvQWnRgxG0&t=187s) | | [**KANBAN O QUE É?**](https://www.youtube.com/watch?v=K9b4JC5CsQs&t=41s) | | [**Ebook Scrum Arretado**](https://www.daniel-abella.com/livros/scrum/ebook-scrum-arretado.pdf) | | [**Scrum Summary 1**](https://www.daniel-abella.com/quickref/engsoft/quickref-scrum-part1.pdf) | | [**Scrum Summary 2**](https://www.daniel-abella.com/quickref/engsoft/quickref-scrum-part2.pdf)
 
 **Action Items:**
 
